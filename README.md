@@ -35,7 +35,7 @@ A beautiful and modern expense tracker to manage your daily finances efficiently
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/expense-tracker.git
+git clone https://github.com/sahithivallabhani/expense-tracker.git
 ```
 
 2. Open `index.html` in your browser
