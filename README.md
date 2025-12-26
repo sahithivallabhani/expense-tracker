@@ -29,9 +29,7 @@ A beautiful and modern expense tracker to manage your daily finances efficiently
 - 💰 Income
 - 📌 Other
 
-## 🚀 Live Demo
 
-Visit the live demo: [Your GitHub Pages URL will be here]
 
 ## 💻 Local Development
 
