@@ -99,7 +99,7 @@ Contributions, issues, and feature requests are welcome!
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@your-username](https://github.com/sahithivallabhani)
 
 ---
 
