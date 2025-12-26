@@ -98,9 +98,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/sahithivallabhani)
 
----
+- GitHub:Sahithi(https://github.com/sahithivallabhani)
 
-Made with ❤️ using HTML, CSS, and JavaScript
+
